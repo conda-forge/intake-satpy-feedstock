@@ -1,11 +1,11 @@
-About intake-satpy
-==================
+About intake-satpy-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/intake-satpy-feedstock/blob/main/LICENSE.txt)
 
 Home: https://pypi.org/project/intake-satpy/
 
 Package license: GPL-3.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/intake-satpy-feedstock/blob/main/LICENSE.txt)
 
 Summary: Intake drivers using Satpy to read and manipulate data
 

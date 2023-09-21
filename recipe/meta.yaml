@@ -1,5 +1,5 @@
 {% set name = "intake-satpy" %}
-{% set version = "0.1.0" %}
+{% set version = "0.1.0.post0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/intake_satpy-{{ version }}.tar.gz
-  sha256: 6c1f37b35f9a75f789a5b661a7cfcdc41017c78f92f0b02b6de7f89c40f39f6f
+  sha256: 10d62d93b2f03cfed64f2471748fd529bf1ccf2b44382d2770d33d45b762c3fd
 
 build:
   noarch: python
